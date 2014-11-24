@@ -4,15 +4,19 @@ ihavesomethingtohi.de
 # Do you have something to hide?
 
 ## No
-If you say no, then we send you to a random counter argument like:
-- then, just remove the curtains of your window
-- please upload a naked picturefrom you here:
+Random counter argument like:
+- Just remove the curtains of your window
+- Please upload a naked picturefrom you here:
 - Give me your credit card number here
-- Can you share with us some of your best sexual party?
+- Do you have sexual habits that are not accepted by your culture
+- Let's remove rights for private vote
+- Let's remove rights for private conversation between doctor and patient
+- Let's remove rights for private conversation between advocate and client
+- Let's remove rights for private conversation between Journalist and sources
 
 ## Yes
 
-# How to quit mass surveillance.
+### How to quit mass surveillance.
 
 And each steps we explain why and how.
 
