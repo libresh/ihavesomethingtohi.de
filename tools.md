@@ -1,8 +1,10 @@
 # How to quit mass surveillance.
 
-time: estimated time
-skills: between 1-5 where 1 is easy
-spy reduction: 1-5
+*time*: estimated time to perform
+
+*skills*: between 1-5 where 1 is easy
+
+*spy reduction*: 1-5
 
 1. [Install firefox](https://www.mozilla.org/en-US/firefox/new/)
  - why: Freesoftware to browse Internet
