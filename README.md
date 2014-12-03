@@ -24,6 +24,10 @@ False information - kafka
 links to press article
 - snowden
 
+# related project
+
+- https://ssd.eff.org/
+
 # TODO
 ## Actions until next meeting
 - add more content
