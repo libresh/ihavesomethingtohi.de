@@ -33,7 +33,6 @@ links to press article
 - add more content
 - rephrase
 - colors for quantity of data
-- FAQ
 
 ## Next meeting
 - form
