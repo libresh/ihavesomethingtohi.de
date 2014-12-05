@@ -16,6 +16,7 @@
  - time: 5mins
  - skills: 1
  - spy reduction: 4
+3. Install Add blocker and http://dhowe.github.io/AdNauseam/
 3. Change your default search engine to [duckduckgo](http://duckduckgo.com/)
  - why: Stop Companies know what you have in mind
  - time: 5mins
