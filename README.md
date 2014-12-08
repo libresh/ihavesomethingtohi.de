@@ -44,7 +44,6 @@ Unaware people
 ## Actions until next meeting
 - add more content
 - rephrase
-- colors for quantity of data
 
 ## Next meeting
 - form
