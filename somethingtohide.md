@@ -9,7 +9,7 @@
 Would you allow a company entering your home, and look everywhere?
 
 ### Targeted argument:
-- Just remove the curtains of your window
+- Just remove the curtains of your windows
 - Please upload a naked picturefrom you here:
 - Give me your credit card number here
 - Do you have sexual habits that are not accepted by your culture
