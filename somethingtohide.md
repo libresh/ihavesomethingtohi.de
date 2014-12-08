@@ -6,20 +6,22 @@
 
 ### Simple argument
 
-Would you allow a company entering your home, and look everywhere?
+Would you allow a stranger to enter your home, and look around?
 
 ### Targeted argument:
-- Just remove the curtains of your windows
-- Please upload a naked picturefrom you here:
+- someone check your trash
 - Give me your credit card number here
-- Do you have sexual habits that are not accepted by your culture
-- Let's remove rights for private vote
-- Let's remove rights for private conversation between doctor and patient
-- Let's remove rights for private conversation between advocate and client
-- Let's remove rights for private conversation between Journalist and sources
+- Just remove the curtains of your windows
+- Please upload a personal picture from you here
+- Would you reveal your sexual behavior to your employer
+- Would you reveal how you vote to your inlaws
+- Would you reveal conversations with your lawyer/doctor/therapist to your ..
+- Would you remove confidentiality between Journalist and sources
 
 - More storrytelling argument / concrete examples / people fighting for your rights
- - homesexuality in Ouganda
+ - blog about concerns conversation doctor
+ - lawyer concerns
+ - homesexuality in Uganda
  - opponents in Lybia
  - Martin Luther king / Gandi / Nelson Mandela argument
  - Environment activists
@@ -29,4 +31,4 @@ Would you allow a company entering your home, and look everywhere?
 
 Activism needed for democracy
 
-### But what about terrorism? How to fight it?
+
