@@ -15,7 +15,10 @@ How does surveillance work at:
  - by wiretapping these companies
 
 Demonstrates everything you do on Internet is saved and analysed
-http://www.framablog.org/index.php/post/2014/11/19/ce-que-google-sait-de-vous
+- https://www.google.com/ads/preferences/
+- https://maps.google.com/locationhistory
+- https://history.google.com/
+
 It can be leaked
 (Australian example with chinese cloud)
 
