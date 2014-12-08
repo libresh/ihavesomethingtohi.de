@@ -1,5 +1,12 @@
 FAQ
 
+* But what about terrorism? How to fight it?
+
+Links for:
+* Inefective
+* Expensive
+* Unconstitutional
+
 * Do I need to be a `geek` to install the tools to protect my data?
 
 As you can see in the description of each [tools](https://github.com/pierreozoux/ihavesomethingtohi.de/blob/master/tools.md), it requires various level of knowledge.
