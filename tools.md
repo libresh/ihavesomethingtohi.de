@@ -6,6 +6,11 @@
 
 *spy reduction*: 1-5
 
+*inconviences rating?
+
+mention that you still have alternatives (even if you use DuckDuckGo you can
+search Google easily if you don't find the answer)
+
 1. [Install firefox](https://www.mozilla.org/en-US/firefox/new/)
  - why: Freesoftware to browse Internet
  - time: 5mins

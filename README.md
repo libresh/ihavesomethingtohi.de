@@ -8,6 +8,22 @@ Use a comic
 
 ### Demonstrate we are under mass surveillance
 
+Privacy is a fundemental human right.
+
+You are leaving your fingerprint on every website you visit. The website will
+be connected to other services like ad sellers, analytics and social networks
+that also collect the same fingerprint. 
+
+Companies now have the power to show you customized content. They will use it.
+For your good? Reduction of choices, less informed, less autonomy
+
+Gonvernments are tapping big Internet companies but also telecommunication
+on a low level.
+
+[As an example: BBC (or other news site) number of tracking services?]
+
+[Links fingerprint]
+
 Demonstrates everything you do on Internet is saved and analysed
 - https://maps.google.com/locationhistory
 - https://www.google.com/ads/preferences/
