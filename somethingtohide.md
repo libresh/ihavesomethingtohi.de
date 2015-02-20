@@ -8,6 +8,10 @@
 
 Would you allow a stranger to enter your home, and look around?
 
+[One parapgraph about why you want to hide stuff. Follow-up from page one.
+Keywords: less options, autonomy, freedom to have think private, for you
+and your neighbour(!), democracy]
+
 ### Targeted argument:
 - Someone checks your trash
 - Give me your credit card number here
