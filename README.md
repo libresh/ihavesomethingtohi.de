@@ -13,6 +13,10 @@ Demonstrates everything you do on Internet is saved and analysed
 - https://www.google.com/ads/preferences/
 - https://history.google.com/
 
+Visualise who is tracking you:
+- https://www.mozilla.org/en-US/lightbeam/ (if you're already using Firefox)
+- http://collusion.toolness.org (demo available if you don't have Firefox yet)
+
 When you send an email, it's like a postcard, everbody does read it on the way.
 Would you accept it in real life?
 
