@@ -24,6 +24,9 @@ on a low level.
 
 [Links fingerprint]
 
+Cookie-less/Anonymous mode tracking demo:
+https://panopticlick.eff.org/
+
 Demonstrates everything you do on Internet is saved and analysed
 - https://maps.google.com/locationhistory
 - https://www.google.com/ads/preferences/
