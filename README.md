@@ -28,6 +28,8 @@ about any topic that you try to study online, any service you request will be
 reduced and modified, and as a result this kind of surveillance will lead to
 less autonomy for you as a user and citizen.
 
+[See also: https://medium.com/@yegg/privacy-is-at-a-crossroads-choose-wisely-96bac0644ec1]
+
 Besides companies, also gonvernments are tapping computers and big Internet
 and telecommunication companies on a low level. This type of surveillance is
 possible as devices in your computer are "protected" from you as a user and
