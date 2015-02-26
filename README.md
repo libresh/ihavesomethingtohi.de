@@ -29,6 +29,7 @@ reduced and modified, and as a result this kind of surveillance will lead to
 less autonomy for you as a user and citizen.
 
 [See also: https://medium.com/@yegg/privacy-is-at-a-crossroads-choose-wisely-96bac0644ec1]
+[See also: http://www.thoughtcrime.org/blog/we-should-all-have-something-to-hide/]
 
 Besides companies, also gonvernments are tapping computers and big Internet
 and telecommunication companies on a low level. This type of surveillance is
