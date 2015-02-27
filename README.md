@@ -28,8 +28,9 @@ about any topic that you try to study online, any service you request will be
 reduced and modified, and as a result this kind of surveillance will lead to
 less autonomy for you as a user and citizen.
 
-[See also: https://medium.com/@yegg/privacy-is-at-a-crossroads-choose-wisely-96bac0644ec1]
-[See also: http://www.thoughtcrime.org/blog/we-should-all-have-something-to-hide/]
+See also: 
+ - [privacy is at a crossroads choose wisely](https://medium.com/@yegg/privacy-is-at-a-crossroads-choose-wisely-96bac0644ec1)
+ - [we should all have something to hide](http://www.thoughtcrime.org/blog/we-should-all-have-something-to-hide/)
 
 Besides companies, also gonvernments are tapping computers and big Internet
 and telecommunication companies on a low level. This type of surveillance is
@@ -48,7 +49,8 @@ Would you accept it in real life?
 [Links fingerprint]
 
 Cookie-less/Anonymous mode tracking demo:
-https://panopticlick.eff.org/
+ - https://panopticlick.eff.org/
+ - http://browserspy.dk/
 
 Demonstrates everything you do on Internet is saved and analysed
 - https://maps.google.com/locationhistory
