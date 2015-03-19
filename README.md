@@ -1,14 +1,14 @@
 # Do you know by being on this page, you are under mass surveillance?
 
-Use a comic
-
 ## [Yes](https://github.com/pierreozoux/ihavesomethingtohi.de/blob/master/somethingtohide.md)
 
 ## No
 
 ### Demonstrate we are under mass surveillance
 
-Privacy is a fundemental human right.
+Privacy is a fundamental human right.
+
+#### Digital Fingerprint
 
 You are leaving your fingerprint on every website you visit. The website is
 connected to other services like ad sellers, analytics and social networks
@@ -16,11 +16,27 @@ that collect the same fingerprint. This mass surveillance leaves companies
 with a detailed profile of your online behaviour that accumulates data as soon
 as you click on the next link.
 
-[As an example: BBC (or other news site) number of tracking services?]
+Cookie-less/Anonymous mode tracking demo:
+ - https://panopticlick.eff.org/
+ - http://browserspy.dk/
+
+Visualise who is tracking you:
+- https://www.mozilla.org/en-US/lightbeam/ (if you're already using Firefox)
+- http://collusion.toolness.org (demo available if you don't have Firefox yet)
+
+Convinced?
+
+Yes [-> link to next page]
+No [-> show next paragraph]
+
+
+#### Reduction of choices
 
 Companies nowadays use this power to show you customized content like ads, but
 also to adapt your search results and offers you get. And they will use it for
 any business model that brings them revenue. For your good?
+
+http://geekandpoke.typepad.com/.a/6a00d8341d3df553ef0147e0e1aec2970b-800wi
 
 Mass surveillance will result in a reduction of choices, as we are kept within
 the digital cages that companies create for us. You will get less information
@@ -30,6 +46,14 @@ less autonomy for you as a user and citizen.
 
 See also: 
  - [privacy is at a crossroads choose wisely](https://medium.com/@yegg/privacy-is-at-a-crossroads-choose-wisely-96bac0644ec1)
+
+Convinced?
+
+Yes [-> link to next page]
+No [-> show next paragraph]
+
+
+#### Government and its secret services
 
 Besides companies, also gonvernments are tapping computers and big Internet
 and telecommunication companies. This type of surveillance is
@@ -42,21 +66,19 @@ government, full self-defence is practically not possible anymore.
 
 [Links to firmware spyware and telco surveillance]
 
-[Links fingerprint]
+"Link to page "Do you have something to hide?"
 
-Cookie-less/Anonymous mode tracking demo:
- - https://panopticlick.eff.org/
- - http://browserspy.dk/
+
+#### End of content, temporary notes start here
+
+[Links to firmware spyware and telco surveillance]
+
+[TODO: Another example: BBC (or other news site) number of tracking services?]
 
 Demonstrates everything you do on Internet is saved and analysed
 - https://maps.google.com/locationhistory
 - https://www.google.com/ads/preferences/
 - https://history.google.com/
-
-Visualise who is tracking you:
-- https://www.mozilla.org/en-US/lightbeam/ (if you're already using Firefox)
-- http://collusion.toolness.org (demo available if you don't have Firefox yet)
-
 
 How does surveillance work at:
 - company level
@@ -74,6 +96,8 @@ links to press article
 - snowden
 
 # related project
+
+Maybe put in FAQ later:
 
 - https://ssd.eff.org/
 - http://jenairienacacher.fr/
