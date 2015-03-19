@@ -6,11 +6,23 @@
 
 ### Simple argument
 
-Would you allow a stranger to enter your home, and look around?
+
+
+If you took the most paranoid person from 5 years ago, after everything we
+learned recently about spying on the Internet by governments and companies, that
+person was actually right.
+
+Would you allow a stranger to enter your home, and look around? When you send
+an email, it's like a postcard, everbody might read it on the way. Would you
+accept it in real life?
 
 [One parapgraph about why you want to hide stuff. Follow-up from page one.
-Keywords: less options, autonomy, freedom to have think private, for you
+Keywords: less options, autonomy, freedom to think private, for you
 and your neighbour(!), democracy]
+
+See also:
+ - [we should all have something to hide](http://www.thoughtcrime.org/blog/we-should-all-have-something-to-hide/)
+ - [Why Privacy Matters - Glenn Greenwald](http://www.ted.com/talks/glenn_greenwald_why_privacy_matters)
 
 ### Targeted argument:
 - Someone checks your trash
@@ -31,7 +43,6 @@ and your neighbour(!), democracy]
  - environmental activists
  - activists
 
-[Why Privacy Matters - Glenn Greenwald](http://www.ted.com/talks/glenn_greenwald_why_privacy_matters)
 
 Activism needed for democracy
 

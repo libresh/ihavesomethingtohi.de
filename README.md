@@ -30,10 +30,9 @@ less autonomy for you as a user and citizen.
 
 See also: 
  - [privacy is at a crossroads choose wisely](https://medium.com/@yegg/privacy-is-at-a-crossroads-choose-wisely-96bac0644ec1)
- - [we should all have something to hide](http://www.thoughtcrime.org/blog/we-should-all-have-something-to-hide/)
 
 Besides companies, also gonvernments are tapping computers and big Internet
-and telecommunication companies on a low level. This type of surveillance is
+and telecommunication companies. This type of surveillance is
 possible as devices in your computer are "protected" from you as a user and
 because your data and telephone connections are running through closed
 ecosystems under control of companies that (non-)deliberately cooperate with
@@ -42,9 +41,6 @@ your privacy is completely on stake. At the moment, you just have to trust your
 government, full self-defence is practically not possible anymore.
 
 [Links to firmware spyware and telco surveillance]
-
-When you send an email, it's like a postcard, everbody does read it on the way.
-Would you accept it in real life?
 
 [Links fingerprint]
 
