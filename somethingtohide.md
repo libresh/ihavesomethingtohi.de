@@ -6,25 +6,33 @@
 
 ### Simple argument
 
-
+In the past, rules of countries have changed drastically, for example the concept
+of freedom. Future changes might affect your future self. Your present privacy
+is important for future freedom.
 
 If you took the most paranoid person from 5 years ago, after everything we
 learned recently about spying on the Internet by governments and companies, that
 person was actually right.
 
-Would you allow a stranger to enter your home, and look around? When you send
-an email, it's like a postcard, everbody might read it on the way. Would you
-accept it in real life?
+Link: [we should all have something to hide](http://www.thoughtcrime.org/blog/we-should-all-have-something-to-hide/)
 
-[One parapgraph about why you want to hide stuff. Follow-up from page one.
-Keywords: less options, autonomy, freedom to think private, for you
-and your neighbour(!), democracy]
+Convinced?
 
-See also:
- - [we should all have something to hide](http://www.thoughtcrime.org/blog/we-should-all-have-something-to-hide/)
- - [Why Privacy Matters - Glenn Greenwald](http://www.ted.com/talks/glenn_greenwald_why_privacy_matters)
+Yes [-> link to next page]
+No [-> show next paragraph]
 
-### Targeted argument:
+Would you allow a stranger to enter your home, and look around?
+When you send an email, it's like a postcard, several agents (digital and human)
+copy and read it on the way. Would you accept it in real life?
+
+Link: [Why Privacy Matters - Glenn Greenwald](http://www.ted.com/talks/glenn_greenwald_why_privacy_matters)
+
+Link to next page "tools"
+
+
+#### End of content, temporary notes start here
+
+Targeted argument:
 - Someone checks your trash
 - Give me your credit card number here
 - Just remove the curtains of your windows
@@ -34,14 +42,15 @@ See also:
 - Would you reveal conversations with your lawyer/doctor/therapist to your neighbours
 - Would you remove confidentiality between Journalist and sources
 
-- More storytelling argument / concrete examples / people fighting for your rights
- - blog about concerns conversation doctor
- - lawyer concerns
- - homesexuality in Uganda
- - opponents in Lybia
- - Martin Luther King / Gandi / Nelson Mandela argument
- - environmental activists
- - activists
+More storytelling argument / concrete examples / people fighting for your rights:
+- blog about concerns conversation doctor
+- lawyer concerns
+- homesexuality in Uganda
+- opponents in Lybia
+- Martin Luther King / Gandi / Nelson Mandela argument
+- right to think private
+- environmental activists
+- activists
 
 
 Activism needed for democracy

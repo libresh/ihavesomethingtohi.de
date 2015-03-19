@@ -30,29 +30,6 @@ Yes [-> link to next page]
 No [-> show next paragraph]
 
 
-#### Reduction of choices
-
-Companies nowadays use this power to show you customized content like ads, but
-also to adapt your search results and offers you get. And they will use it for
-any business model that brings them revenue. For your good?
-
-http://geekandpoke.typepad.com/.a/6a00d8341d3df553ef0147e0e1aec2970b-800wi
-
-Mass surveillance will result in a reduction of choices, as we are kept within
-the digital cages that companies create for us. You will get less information
-about any topic that you try to study online, any service you request will be
-reduced and modified, and as a result this kind of surveillance will lead to
-less autonomy for you as a user and citizen.
-
-See also: 
- - [privacy is at a crossroads choose wisely](https://medium.com/@yegg/privacy-is-at-a-crossroads-choose-wisely-96bac0644ec1)
-
-Convinced?
-
-Yes [-> link to next page]
-No [-> show next paragraph]
-
-
 #### Government and its secret services
 
 Besides companies, also gonvernments are tapping computers and big Internet
@@ -66,7 +43,7 @@ government, full self-defence is practically not possible anymore.
 
 [Links to firmware spyware and telco surveillance]
 
-"Link to page "Do you have something to hide?"
+Link to page "Do you have something to hide?"
 
 
 #### End of content, temporary notes start here
@@ -95,22 +72,33 @@ False information - kafka
 links to press article
 - snowden
 
-# related project
-
 Maybe put in FAQ later:
+
+#### Reduction of choices
+
+Companies nowadays use this power to show you customized content like ads, but
+also to adapt your search results and offers you get. And they will use it for
+any business model that brings them revenue. For your good?
+
+http://geekandpoke.typepad.com/.a/6a00d8341d3df553ef0147e0e1aec2970b-800wi
+
+Mass surveillance will result in a reduction of choices, as we are kept within
+the digital cages that companies create for us. You will get less information
+about any topic that you try to study online, any service you request will be
+reduced and modified, and as a result this kind of surveillance will lead to
+less autonomy for you as a user and citizen.
+
+See also: 
+ - [privacy is at a crossroads choose wisely](https://medium.com/@yegg/privacy-is-at-a-crossroads-choose-wisely-96bac0644ec1)
+
+Convinced?
+
+Yes [-> link to next page]
+No [-> show next paragraph]
+
+
+# related project
 
 - https://ssd.eff.org/
 - http://jenairienacacher.fr/
 
-# TODO
-
-# Maketing Target group
-People saying: "I have something to hide"
-Unaware people
-
-## Actions until next meeting
-- add more content
-- rephrase
-
-## Next meeting
-- form
