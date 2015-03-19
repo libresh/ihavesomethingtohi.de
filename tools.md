@@ -69,10 +69,10 @@ search Google easily if you don't find the answer)
  - spy reduction: 2
 
 ## Other sites that are offering tools:
-http://libreprojects.net/
-http://degooglisons-internet.org/
-https://prism-break.org/en/
-https://wiki.debian.org/FreedomBox/LeavingTheCloud
-http://alternativeto.net
-http://www.clibre.eu/
-https://www.tacticaltech.org/
+ - http://libreprojects.net/
+ - http://degooglisons-internet.org/
+ - https://prism-break.org/en/
+ - https://wiki.debian.org/FreedomBox/LeavingTheCloud
+ - http://alternativeto.net
+ - http://www.clibre.eu/
+ - https://www.tacticaltech.org/
