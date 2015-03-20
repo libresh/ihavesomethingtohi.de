@@ -1,12 +1,8 @@
 # Do you know by being on this page, you are under mass surveillance?
 
-## [Yes](https://github.com/pierreozoux/ihavesomethingtohi.de/blob/master/somethingtohide.md)
+[Yes](https://github.com/pierreozoux/ihavesomethingtohi.de/blob/master/somethingtohide.md) / No
 
-## No
-
-### Demonstrate we are under mass surveillance
-
-Privacy is a fundamental human right.
+### Privacy is a fundamental human right.
 
 #### Digital Fingerprint
 
@@ -26,9 +22,7 @@ Visualise who is tracking you:
 
 Convinced?
 
-Yes [-> link to next page]
-No [-> show next paragraph]
-
+[Yes](https://github.com/pierreozoux/ihavesomethingtohi.de/blob/master/somethingtohide.md) / No
 
 #### Government and its secret services
 
@@ -41,10 +35,9 @@ secret services. As you as a user do not have control over this level anymore,
 your privacy is completely on stake. At the moment, you just have to trust your
 government, full self-defence is practically not possible anymore.
 
-[Links to firmware spyware and telco surveillance]
+[Mass Surveillance on wikipedia](https://en.wikipedia.org/wiki/Mass_surveillance)
 
-Link to page "Do you have something to hide?"
-
+[Do you have something to hide?](https://github.com/pierreozoux/ihavesomethingtohi.de/blob/master/somethingtohide.md)
 
 #### End of content, temporary notes start here
 
