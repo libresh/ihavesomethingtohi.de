@@ -90,10 +90,3 @@ Convinced?
 
 Yes [-> link to next page]
 No [-> show next paragraph]
-
-
-# related project
-
-- https://ssd.eff.org/
-- http://jenairienacacher.fr/
-
