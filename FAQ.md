@@ -40,10 +40,7 @@ Whereas with proprietary software, this is impossible to do (or really complicat
 Depending on your habits ;)
 If you just need to browse the Internet, switching from Chrome/Safari to Firefox is really easy.
 If you use Office, switching to libre office requires a bit of time to adapt to the new interface.
-If you use Windows, without being a power user, it will be equivalent. and if you are a power user, it's just a matter of time to learn the differences.
-(Maybe we should put this section under each application)
-
-Oui, non, réponses variées, pour Linux : possibilités de partition et d'émulateurs d'autres systèmes d'exploitation si besoin.
+If you use Windows, without being a power user, it will be equivalent. And if you are a power user, it's just a matter of time to learn the differences.
 
 * Are free softwares as efficient as paid ones?
 
@@ -57,3 +54,8 @@ For The Gimp, which is an alternative to Photoshop, I have to admit that it's st
 
 Yes maybe, as revealed by Snowden, users of Linux are targeted for extra surveillance..[Source](http://www.linuxjournal.com/content/nsa-linux-journal-extremist-forum-and-its-readers-get-flagged-extra-surveillance).
 But you have to remember that this is completely illegal, and it just shows us how we need more free software, and more users!
+
+* related project
+
+- https://ssd.eff.org/
+- http://jenairienacacher.fr/
