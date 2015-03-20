@@ -30,14 +30,14 @@
  - spy reduction: 3
  - inconvenience: 1 (You can still search on google by adding a `!g`)
 
-## tor browser
+## [Tor browser](https://www.torproject.org/projects/torbrowser.html.en)
  - why: Stop your ISP/Government from knowing what you browse and which website you come from
  - time: 10 mins
  - skills: 2
  - spy reduction: 3
  - inconvenience: 4
 
-## Have your own domain - Join the IndieWeb movement!
+## Have your own domain - Join the [IndieWeb](http://indiewebcamp.com/) movement!
  - why: Stop companies spying on how your content is visited
  - time: 2 hours
  - skills: 2
@@ -72,14 +72,15 @@
  - spy reduction: 1
  - inconvenience: 0
 
-## Install linux ([ubuntu](http://www.ubuntu.com/desktop)..)
+## Install [linux](http://www.ubuntu.com/desktop)
  - why: Free software to limit surveillance on the device used to browse the Internet
  - time: 3 hours
  - skills: 3
  - spy reduction: 2
  - inconvenience: 3
 
-## Have your server at home ([arkos](https://arkos.io/)..)
+## Have your server at home
+[arkos](https://arkos.io/) / [Cozy](https://cozy.io/en/) / [Yunohost](https://yunohost.org/#/) / [Ubos](http://ubos.net/) / [Superglue](http://superglue.it/)
  - why: People would need to break into your house to get your data
  - time: 10
  - skills: 5
