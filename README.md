@@ -12,13 +12,13 @@ that collect the same fingerprint. This mass surveillance leaves companies
 with a detailed profile of your online behaviour that accumulates data as soon
 as you click on the next link.
 
-Cookie-less/Anonymous mode tracking demo:
- - https://panopticlick.eff.org/
- - http://browserspy.dk/
-
 Visualise who is tracking you:
 - https://www.mozilla.org/en-US/lightbeam/ (if you're already using Firefox)
 - http://collusion.toolness.org (demo available if you don't have Firefox yet)
+
+Cookie-less/Anonymous mode tracking demo:
+ - https://panopticlick.eff.org/
+ - http://browserspy.dk/
 
 Convinced?
 
