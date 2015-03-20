@@ -1,10 +1,8 @@
 # Do you have something to hide?
 
-## [Yes](https://github.com/pierreozoux/ihavesomethingtohi.de/blob/master/tools.md)
+[Yes](https://github.com/pierreozoux/ihavesomethingtohi.de/blob/master/tools.md) / No
 
-## No
-
-### Simple argument
+## Rules are changing
 
 In the past, rules of countries have changed drastically, for example the concept
 of freedom. Future changes might affect your future self. Your present privacy
@@ -14,21 +12,19 @@ If you took the most paranoid person from 5 years ago, after everything we
 learned recently about spying on the Internet by governments and companies, that
 person was actually right.
 
-Link: [we should all have something to hide](http://www.thoughtcrime.org/blog/we-should-all-have-something-to-hide/)
+[we should all have something to hide](http://www.thoughtcrime.org/blog/we-should-all-have-something-to-hide/)
 
 Convinced?
 
-Yes [-> link to next page]
-No [-> show next paragraph]
+[Yes](https://github.com/pierreozoux/ihavesomethingtohi.de/blob/master/tools.md) / No
 
 Would you allow a stranger to enter your home, and look around?
 When you send an email, it's like a postcard, several agents (digital and human)
 copy and read it on the way. Would you accept it in real life?
 
-Link: [Why Privacy Matters - Glenn Greenwald](http://www.ted.com/talks/glenn_greenwald_why_privacy_matters)
+[Why Privacy Matters - Glenn Greenwald](http://www.ted.com/talks/glenn_greenwald_why_privacy_matters)
 
-Link to next page "tools"
-
+[Tools to avoid Surveillance](https://github.com/pierreozoux/ihavesomethingtohi.de/blob/master/tools.md)
 
 #### End of content, temporary notes start here
 
@@ -50,9 +46,6 @@ More storytelling argument / concrete examples / people fighting for your rights
 - Martin Luther King / Gandi / Nelson Mandela argument
 - right to think private
 - environmental activists
-- activists
-
-
-Activism needed for democracy
+- Activism needed for democracy
 
 
