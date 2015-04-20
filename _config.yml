@@ -1,0 +1,37 @@
+title: I have something to hide!
+author: ihavesomethingtohide
+email: pierre@ozoux.net
+description: We all have something to hide.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://ihavesomethingtohi.de" # the base hostname & protocol for your site
+twitter_username: ihavesomethingtohide
+fb_admins: 776290334
+og_image: logo-full.png
+
+# Grunt handles images and assets.
+exclude: ['img', 'css', 'js', 'fonts',
+          '**.png', '**.jpg', '**.jpeg', '**.gif', '**.webp', '**.svg', '**.ico']
+
+# Markdown library
+markdown: kramdown
+#   auto_ids: true
+#   footnote_nr: 1
+#   entity_output: as_char
+#   toc_levels: 1..6
+#   use_coderay: false
+#   coderay:
+#     coderay_wrap: div
+#     coderay_line_numbers: inline
+#     coderay_line_numbers_start: 1
+#     coderay_tab_width: 4
+#     coderay_bold_every: 10
+#     coderay_css: style
+
+# _config.build.yml sets future and show_drafts to false on `grunt build`
+future: true
+show_drafts: true
+
+collections:
+  - being_watched_arguments
+  - something_to_hide_arguments
+
