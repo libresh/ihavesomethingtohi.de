@@ -20,4 +20,4 @@ More storytelling argument / concrete examples / people fighting for your rights
 - environmental activists
 - Activism needed for democracy
 
-
+nothing to hide song https://www.youtube.com/watch?v=rEwf4sDgxHo
