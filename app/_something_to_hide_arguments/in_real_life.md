@@ -15,5 +15,5 @@ Would you allow a stranger to enter your home, and look around?
 
 When you send an email, it's like a postcard, several agents (digital and human) copy and read it on the way. Would you accept it in real life?
 
-Why acceptinh this in your digital life?
+Why accepting this in your digital life?
 
