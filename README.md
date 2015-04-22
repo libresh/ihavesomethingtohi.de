@@ -1,4 +1,4 @@
-# Do you know that a lot of people are aware you are visinting this page?
+# Do you know that you are being watched?
 
 [Yes](https://github.com/pierreozoux/ihavesomethingtohi.de/blob/master/somethingtohide.md) / No
 
