@@ -34,4 +34,5 @@ show_drafts: true
 collections:
   - being_watched_arguments
   - something_to_hide_arguments
+  - tools
 
