@@ -147,11 +147,12 @@ module.exports = function (grunt) {
       }
     },
     // Usemin adds files to concat
-    concat: {},
+    concat: {generated:{}},
     // Usemin adds files to uglify
-    uglify: {},
+    uglify: {generated:{}},
     // Usemin adds files to cssmin
     cssmin: {
+      generated:{},
       dist: {
         options: {
           check: 'gzip'
