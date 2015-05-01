@@ -5,8 +5,8 @@
           <a href="/"><img src="/images/logo.png" /></a>
           <h1>{{ page.question  }}</h1>
           <div id="headerButtons">
-            <div class="headerButton"><a href="{{ page.next }}">Yes</a></div>
-            <div class="headerButton"><a href="#content">No</a></div>
+            <a href="{{ page.next }}"><div class="headerButton">Yes</div></a>
+            <a href="#content"><div class="headerButton">No</div></a>
           </div>
         </div>
         <div id="content">
@@ -42,11 +42,11 @@
             </div>
             <div class="convinced">
               <div class="convincedQuestion">Convinced?</div>
-              <div class="convincedButton"><a href="{{ page.next }}">Yes</a></div>
+              <a href="{{ page.next }}"><div class="convincedButton">Yes</div></a>
               {% if forloop.last %}
-                <div class="convincedButton"><a href="{{ page.next }}">No</a></div>
+                <a href="{{ page.next }}"><div class="convincedButton">No</div></a>
               {% else %}
-                <div class="convincedButton"><a href="#{{ arguments[forloop.index].slug }}">No</a></div>
+                <a href="#{{ arguments[forloop.index].slug }}"><div class="convincedButton">No</div></a>
               {% endif %}
             </div>
           {% endfor %}

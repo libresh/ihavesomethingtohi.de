@@ -145,10 +145,6 @@ div.headerButton {
     padding: 10px;
     margin-left:25px;
     margin-right:25px;
-
-}
-
-div.headerButton a {
     font-size: 42px;
     text-decoration: none;
     color: white;
@@ -241,9 +237,6 @@ div.convincedButton {
     margin-left:15px;
     margin-right:15px;
     text-align: center;
-}
-
-div.convincedButton a {
     text-decoration: none;
     color: #1baebe;
 }
