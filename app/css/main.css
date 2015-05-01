@@ -93,7 +93,6 @@ h2 {
 
 h3 {
     font-size: 14px;
-    color: #1baebe;
 }
 
 div#container {
@@ -342,7 +341,7 @@ div#tools p {
     margin: 0;
 }
 
-div#tools p a {
+a {
     color: #1baebe;
 }
 
