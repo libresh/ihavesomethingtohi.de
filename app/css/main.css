@@ -152,7 +152,7 @@ div.headerButton {
 div#content {
     width: 800px;
     margin-top: 120px;
-    margin-bottom: 200px;
+    margin-bottom: 0;
     margin-left: auto; 
     margin-right: auto;
     padding-top: 50px;
@@ -361,6 +361,26 @@ div#tools h2 {
 
 div#tools p {
     margin: 0;
+}
+
+div#footer {
+    width: 100%;
+    text-align: center;
+    background-color: #333;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size: 20px;
+}
+
+div#footer p {
+    margin: 10px;
+}
+
+div#footer h2 {
+    color: white;
+    font-size: 50px;
+    margin-bottom: 20px;
 }
 
 a {
