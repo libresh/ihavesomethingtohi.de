@@ -8,17 +8,17 @@
 
         <div id="content">
             <h1 class="toolsTitle">{{ page.title }}</h1>
-            <p>TL;DR use <a href="https://tails.boum.org/">tails</a> :)</p>
+            <p>{% t tools.tldruse %} <a href="https://tails.boum.org/">tails</a> :)</p>
             <div class="toolsHeader">
                 <div class="toolsHeaderTool">
                     <div class="toolsIcon">
                         <i class="fa fa-clock-o"></i>
                     </div>
                     <div class="toolTitle">
-                        Estimated time
+                      {% t tools.estimated %}
                     </div>
                     <div class="toolText">
-                        to perform
+                      {% t tools.perform %}
                     </div>
                 </div>
                 <div class="toolsHeaderTool">
@@ -26,10 +26,10 @@
                         <i class="fa fa-cogs"></i>
                     </div>
                     <div class="toolTitle">
-                        Skills required
+                      {% t tools.skills %}
                     </div>
                     <div class="toolText">
-                        between 1 and 5, 1 is easy
+                      {% t tools.skills-text %}
                     </div>
                 </div>
                 <div class="toolsHeaderTool">
@@ -37,10 +37,10 @@
                         <i class="fa fa-eye-slash"></i>
                     </div>
                     <div class="toolTitle">
-                        Spy reduction
+                      {% t tools.spy %}
                     </div>
                     <div class="toolText">
-                        from 1 to 5, 1 is low
+                      {% t tools.spy-text %}
                     </div>
                 </div>
                 <div class="toolsHeaderTool">
@@ -48,10 +48,10 @@
                         <i class="fa fa-meh-o"></i>
                     </div>
                     <div class="toolTitle">
-                        Inconvenience rating
+                      {% t tools.inconvenience %}
                     </div>
                     <div class="toolText">
-                        from 0 to 5, 0 is low
+                      {% t tools.inconvenience-text %}
                     </div>
                 </div>
             </div>
@@ -59,7 +59,13 @@
             <div id="tools">
 
             <table class="tools">
-            {% assign sorted_tools = (site.tools | sort: "number") %}
+            {% capture tool_lang %}{{ site.lang }}_tools{% endcapture %}
+            {% for collection in site.collections %}
+              {% if collection[1].label == tool_lang %}
+                {% assign tools = collection[1].docs %}
+              {% endif %}
+            {% endfor %}
+            {% assign sorted_tools = (tools | sort: "number") %}
             {% for tool in sorted_tools %}
               <tr>
                 <td class="toolActionNumber">
@@ -91,7 +97,7 @@
             {% endfor %}
             </table> <!-- tools -->
 
-            <h2>Other sites are offering tools</h2>
+            <h2>{% t tools.sites %}</h2>
             <p><a href="http://libreprojects.net/">http://libreprojects.net/</a></p>
             <p><a href="http://degooglisons-internet.org/">http://degooglisons-internet.org/</a></p>
             <p><a href="https://prism-break.org/en/">https://prism-break.org/en/</a></p>
@@ -100,7 +106,7 @@
             <p><a href="http://www.clibre.eu/">http://www.clibre.eu/</a></p>
             <p><a href="https://www.tacticaltech.org/">https://www.tacticaltech.org/</a></p>
             
-            <h2>Other sites offering information</h2>
+            <h2>{% t tools.friends %}</h2>
             <p><a href="https://ssd.eff.org/">https://ssd.eff.org/</a></p>
             <p><a href="http://jenairienacacher.fr/">http://jenairienacacher.fr/</a></p>
             <p><a href="https://www.ifeelnaked.org/">https://www.ifeelnaked.org/</a></p>
