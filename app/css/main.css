@@ -166,6 +166,28 @@ div#content {
 div.section {
 }
 
+div.toolboxFooter {
+    width: 100%;
+    background-color: #d8dede;
+    font-size: 30px;
+    padding: 30px;
+    text-align: center;
+}
+
+div.toolboxFooterButton {
+    display: inline-block;    
+    width:225px;
+    min-width: 225px !important;
+    border: 2px solid black;
+    padding: 10px;
+    margin-left: 50px;
+    font-size: 20px;
+}
+
+div.toolboxFooterButton a {
+    color: black;
+}
+
 div.sectionHead {
 }
 
