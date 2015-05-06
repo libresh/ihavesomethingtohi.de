@@ -102,8 +102,9 @@ div#container {
 div#main {
     margin-left: auto; 
     margin-right: auto;
-    width:1250px;
+    width:100%;
     background: #f2f2f2 url("../images/background_main.jpg") no-repeat;
+    background-size: 100% auto;
 }
 
 div#header {
