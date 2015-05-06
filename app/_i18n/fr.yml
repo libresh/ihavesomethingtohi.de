@@ -1,0 +1,7 @@
+global:
+  title: Avez-vous quelque chose a cacher?
+  y: "Oui"
+  n: "Non"
+index:
+  title: "C'est la surveillance de masse."
+

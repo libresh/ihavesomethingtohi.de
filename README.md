@@ -11,3 +11,17 @@ grunt serve
 grunt deploy
 ```
 
+# Translation
+
+Important files :
+ - `app/_i18n/en.yml`
+ - `app/_en_*`
+
+If you want to add a languange:
+ - `cp app/_i18n/en.yml app/_i18n/pt.yml`
+ - `cp -R app/_en_* app/_pt_*`
+ - add you language in `config.yml`
+
+If you have any issue, please do not hesitate to contact us!
+
+hello@ihavesomethingtohi.de

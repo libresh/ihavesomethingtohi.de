@@ -32,7 +32,13 @@ future: true
 show_drafts: true
 
 collections:
-  - being_watched_arguments
-  - something_to_hide_arguments
-  - tools
+  - en_being_watched_arguments
+  - fr_being_watched_arguments
+  - en_something_to_hide_arguments
+  - fr_something_to_hide_arguments
+  - en_tools
+  - fr_tools
+
+languages: ["en", "fr"]
+exclude_from_localizations: ["js", "images", "css", "fonts"]
 
