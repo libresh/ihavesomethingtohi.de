@@ -3,16 +3,17 @@
       <div id="main">
         <div id="header">
           <a href="/"><img src="/images/logo.png" /></a>
-          <h1>{{ page.question  }}</h1>
+          <h1>{% t page.question %}</h1>
           <div id="headerButtons">
-            <a href="{{ page.next }}"><div class="headerButton">Yes</div></a>
-            <a href="#content"><div class="headerButton">No</div></a>
+            <a href="{{ page.next }}"><div class="headerButton">{% t global.y %}</div></a>
+            <a href="#content"><div class="headerButton">{% t global.n %}</div></a>
           </div>
         </div>
         <div id="content">
-          <h1>{{ page.title }}</h1>
+          <h1>{% t page.title %}</h1>
+           {% capture argument_lang %}{{ site.lang }}_{{ page.arguments }}{% endcapture %}
           {% for collection in site.collections %}
-            {% if collection[1].label ==  page.arguments %}
+            {% if collection[1].label == argument_lang %}
               {% assign arguments = collection[1].docs %}
             {% endif %}
           {% endfor %}
@@ -41,20 +42,20 @@
               {% endfor %}
             </div>
             <div class="convinced">
-              <div class="convincedQuestion">Convinced?</div>
-              <a href="{{ page.next }}"><div class="convincedButton">Yes</div></a>
+              <div class="convincedQuestion">{% t global.convinced %}?</div>
+              <a href="{{ page.next }}"><div class="convincedButton">{% t global.y %}</div></a>
               {% if forloop.last %}
-                <a href="{{ page.next }}"><div class="convincedButton">No</div></a>
+                <a href="{{ page.next }}"><div class="convincedButton">{% t global.n %}</div></a>
               {% else %}
-                <a href="#{{ arguments[forloop.index].slug }}"><div class="convincedButton">No</div></a>
+                <a href="#{{ arguments[forloop.index].slug }}"><div class="convincedButton">{% t global.n %}</div></a>
               {% endif %}
             </div>
           </div>
           {% endfor %}
 
           <div class="section toolboxFooter">
-            How can I protect myself?
-            <a href="tools.html"><div class="toolboxFooterButton">Go to toolbox<div></a>
+            {% t global.protect %}?
+            <a href="tools.html"><div class="toolboxFooterButton">{% t global.toolbox %}<div></a>
           </div>
 
         </div> <!-- content -->

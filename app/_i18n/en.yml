@@ -1,0 +1,23 @@
+global:
+  y: "Yes"
+  n: "No"
+  title: Do you have something to hide?
+  madein: Made in Lisbon with love by
+  convinced: Convinced
+  protect:  How can I protect myself
+  toolbox: Go to toolbox
+tools:
+  tldruse: TL;DR use 
+  estimated: Estimated time
+  perform: to perform
+  skills: Skills required
+  skills-text: between 1 and 5, 1 is easy
+  spy: Spy reduction
+  spy-text: from 1 to 5, 1 is low
+  inconvenience: Inconvenience rating
+  inconvenience-text: from 0 to 5, 0 is low
+  sites: Other sites are offering tools
+  friends: Other sites offering information
+index:
+  title: "This is mass surveillance."
+  question: "Do you know that you are being watched?"
