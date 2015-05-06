@@ -366,7 +366,7 @@ div#tools p {
 div#footer {
     width: 100%;
     text-align: center;
-    background-color: #333;
+    background-color: #39383d;
     color: white;
     padding-top: 50px;
     padding-bottom: 50px;
@@ -378,9 +378,20 @@ div#footer p {
 }
 
 div#footer h2 {
-    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    vertical-align: top;
+    color: #39383d;
+    background-color: white;
+    width: 90px;
+    height: 90px;
+    min-width: 90px !important;
+    min-height: 90px !important;    
     font-size: 50px;
+    border-radius: 50%;
     margin-bottom: 20px;
+    line-height: 90px;
 }
 
 a {
