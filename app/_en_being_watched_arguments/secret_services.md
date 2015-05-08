@@ -8,7 +8,7 @@ more:
       - link: https://en.wikipedia.org/wiki/Mass_surveillance
         description:
 ---
-Besides companies, also gonvernments are tapping computers and big Internet and telecommunication companies.
+Besides companies, also governments are tapping computers and big Internet and telecommunication companies.
 
 This type of surveillance is possible as devices in your computer are "protected" from you as a user and because your data and telephone connections are running through closed ecosystems under control of companies that (non-)deliberately cooperate with secret services.
 
