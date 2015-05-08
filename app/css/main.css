@@ -103,17 +103,19 @@ div#main {
     margin-left: auto; 
     margin-right: auto;
     width:100%;
-    background: #f2f2f2 url("../images/background_main.jpg") no-repeat;
-    background-size: 100% auto;
 }
 
 div#header {
     margin-left: auto; 
     margin-right: auto;
-    width:720px;
+    margin-bottom: -360px;
     color: white;
     text-align: center;
     padding-top: 50px;
+    background: #f2f2f2 url("../images/background_main.jpg") no-repeat bottom;
+    background-color: #979797;  
+    background-size: 100% auto;
+    min-height: 980px;
 }
 
 div#toolsHeader {
@@ -132,7 +134,6 @@ div#header h1 {
 }
 
 div#headerButtons {
-    width: 510px;
     margin-left: auto; 
     margin-right: auto;
 }
@@ -148,20 +149,22 @@ div.headerButton {
     font-size: 42px;
     text-decoration: none;
     color: white;
+    margin-bottom: 100px;
 }
 
 div#content {
-    width: 800px;
+    max-width: 900px;
     margin-top: 120px;
     margin-bottom: 0;
     margin-left: auto; 
     margin-right: auto;
     padding-top: 50px;
-    padding-left: 140px;
-    padding-right: 90px;
+    padding-left: 10%;
+    padding-right: 10%;
     padding-bottom: 90px;
     color: black;
     background-color: white;
+    box-sizing: border-box
 }
 
 div.section {
@@ -211,11 +214,9 @@ div.sectionIcon {
 div.sectionText {
     display: inline-block;
     vertical-align: top;
-    width: 500px;
 }
 
 div.links {
-    width: 700px;
     margin-left: auto; 
     margin-right: auto;
     font-size: 13px;
@@ -407,6 +408,13 @@ a {
 
 }
 
+@media only screen and (max-width: 900px) {
+    div#header {
+        margin-bottom: 0;
+        min-height: auto;
+    }
+}
+
 @media print,
        (-o-min-device-pixel-ratio: 5/4),
        (-webkit-min-device-pixel-ratio: 1.25),
@@ -525,3 +533,4 @@ a {
         page-break-after: avoid;
     }
 }
+
