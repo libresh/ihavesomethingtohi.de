@@ -121,10 +121,14 @@ div#header {
 div#toolsHeader {
     margin-left: auto; 
     margin-right: auto;
-    width:720px;
+    margin-bottom: -700px;
     color: white;
     text-align: center;
-    padding-top: 100px;
+    padding-top: 50px;
+    background: #f2f2f2 url("../images/background_main.jpg") no-repeat bottom;
+    background-color: #979797;
+    background-size: 100% auto;
+    min-height: 980px;
 }
 
 div#header h1 {
