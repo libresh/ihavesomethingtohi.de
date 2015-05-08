@@ -7,7 +7,7 @@ more:
     links:
       - link: https://donottrack-doc.com/en/episodes/
         description: Découvrez le tracking, une industrie opaque qui génère des milliards avec ce qu'elle sait de nous.
-      - link: https//www.mozilla.org/en-US/lightbeam/
+      - link: https://www.mozilla.org/en-US/lightbeam/
         description: "(if you are already using Firefox)"
       - link: http://collusion.toolness.org
         description: "(demo available if you don't have Firefox yet)"
