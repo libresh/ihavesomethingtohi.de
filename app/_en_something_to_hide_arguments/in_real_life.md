@@ -5,7 +5,7 @@ icon: <i class="fa fa-eye"></i>
 more:
   - title: "To go further."
     links:
-      - link: http://www.ted.com/talks/glenn_greenwald_why_privacy_matter
+      - link: http://www.ted.com/talks/glenn_greenwald_why_privacy_matters
         description: Why Privacy Matters - Glenn Greenwald
 ---
 
