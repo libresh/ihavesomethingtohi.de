@@ -7,8 +7,6 @@ more:
     links:
       - link: http://www.ted.com/talks/glenn_greenwald_why_privacy_matter
         description: Why Privacy Matters - Glenn Greenwald
-      - link: https://github.com/pierreozoux/ihavesomethingtohi.de/blob/master/tools.md
-        description: Tools to avoid Surveillance
 ---
 
 Would you allow a stranger to enter your home, and look around?
