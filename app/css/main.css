@@ -274,7 +274,7 @@ h1.toolsTitle {
 
 div.toolsHeader {
     background-color: #f2f2f2;
-    width: 780px;
+    width: 680px;
     padding-bottom: 40px;
     padding-top: 20px;
     padding-left: 20px;
@@ -285,7 +285,7 @@ div.toolsHeader {
 div.toolsHeaderTool {
     display: inline-block;
     text-align: center;
-    width: 185px;
+    width: 160px;
 }
 
 div.toolsIcon {
@@ -295,12 +295,12 @@ div.toolsIcon {
 
 div.toolTitle {
     color: #444444;
-    font-size: 18px;
+    font-size: 16px;
 }
 
 div.toolText {
     color: #444444;
-    font-size: 14px;
+    font-size: 12px;
 }
 
 table.tools {
