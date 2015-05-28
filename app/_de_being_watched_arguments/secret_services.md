@@ -1,16 +1,15 @@
 ---
-title: "Government and its secret services"
+title: "Regierungen und Geheimdienste"
 slug: "secret_services"
 icon: <i class="fa fa-eye"></i>
 more:
-  - title: "Mass Surveillance on wikipedia"
+  - title: "Massenüberwachung auf Wikipedia"
     links:
       - link: https://en.wikipedia.org/wiki/Mass_surveillance
         description:
 ---
-Besides companies, also governments are tapping computers and big Internet and telecommunication companies.
+Neben Firmen überwachen auch Regierungen Computer sowie die großen Internet- und Telekommunikationsfirmen.
 
-This type of surveillance is possible as devices in your computer are "protected" from you as a user and because your data and telephone connections are running through closed ecosystems under control of companies that (non-)deliberately cooperate with secret services.
+Diese Art der Überwachung ist möglich, weil die Teile deines Computers und Mobiltelefons vor dir als Benutzer "geschützt" sind, und weil deine Daten und Telefonverbindungen über geschlossene Systeme laufen, die unter Kontrolle von Firmen sind, die (un)freiwillig mit Geheimdiensten zusammenarbeiten.
 
-As you as a user do not have control over this level anymore, your privacy is completely on stake. At the moment, you just have to trust your government, full self-defence is practically not possible anymore.
-
+Weil du als Benutzer auf dieser Ebene keine Kontrolle mehr hast, ist der Datenschutz praktisch aufgehoben. Im Moment musst du dabei deiner und anderen Regierungen vertrauen, kompletter Schutz vor Spionage ist nicht mehr möglich.
