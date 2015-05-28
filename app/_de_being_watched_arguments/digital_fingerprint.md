@@ -3,15 +3,15 @@ title: "Digitaler Fingerabdruck"
 slug: "digital_fingerprint"
 icon: <i class="fa fa-hand-o-up"></i>
 more:
-  - title: "Visualize who is tracking you"
+  - title: "Schau dir an, wer dich beobachtet"
     links:
       - link: https://donottrack-doc.com/en/episodes/
-        description: Meet the trackers, an industry most people can't see, control or question.
+        description: Lerne die Tracker kennen. Eine Industrie, die niemand sieht, kontrolliert oder hinterfragt.
       - link: https://www.mozilla.org/en-US/lightbeam/
-        description: "(if you are already using Firefox)"
+        description: "(wenn du schon Firefox benutzt)"
       - link: http://collusion.toolness.org
-        description: "(demo available if you don't have Firefox yet)"
-  - title: "Cookie-less/Anonymous mode tracking demo"
+        description: "(Demo funktioniert auch ohne Firefox)"
+  - title: "Tracking ohne Cookies und im anonymen Modus"
     links:
       - link: https://panopticlick.eff.org/
         description: ""
@@ -19,5 +19,4 @@ more:
         description: ""
 ---
 
-You are leaving your fingerprint on every website you visit. The website is connected to other services like ad sellers, analytics and social networks that collect the same     fingerprint. This mass surveillance leaves companies with a detailed profile of your online behaviour that accumulates data as soon as you click on the next link.
-
+Du hinterlässt deinen Fingerabdruck auf jeder Webseite, die du besuchst. Die Webseite ist mit anderen Dienstleistern verbunden, wie Werbenetzwerken, Besucheranalyse und sozialen Netzwerken, die denselben Fingerabdruck speichern. Durch diese Massenüberwachung erzeugen Firmen ein detailiertes Profil über dein Online-Verhalten, das durch weitere Daten angereichert wird, sobald du auf den nächsten Link klickst.
