@@ -1,0 +1,23 @@
+global:
+  y: "Ja"
+  n: "Nein"
+  title: Hast du etwas zu verbergen?
+  madein: Mit Liebe gemacht in Lissabon
+  convinced: Überzeugt?
+  protect:  Wie kann ich mich schützen
+  toolbox: Gehe zur Toolbox
+tools:
+  tldruse: TL;DR benutze
+  estimated: Geschätzter Aufwand
+  perform: Minuten/Stunden
+  skills: Schwierigkeit
+  skills-text: zwischen 1 und 5, 1 ist einfach
+  spy: Schutz vor Spionage
+  spy-text: von 1 bis 5, 1 ist wenig
+  inconvenience: Unannehmlichkeiten
+  inconvenience-text: von 0 bis 5, 0 ist wenig
+  sites: Andere Seiten mit Tools
+  friends: Andere Seiten mit Informationen
+index:
+  title: "Das ist Massenüberwachung."
+  question: "Ist dir klar, dass du überwacht wirst?"

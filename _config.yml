@@ -34,11 +34,14 @@ show_drafts: true
 collections:
   - en_being_watched_arguments
   - fr_being_watched_arguments
+  - de_being_watched_arguments
   - en_something_to_hide_arguments
   - fr_something_to_hide_arguments
+  - de_something_to_hide_arguments
   - en_tools
   - fr_tools
+  - de_tools
 
-languages: ["en", "fr"]
+languages: ["en", "fr", "de"]
 exclude_from_localizations: ["js", "images", "css", "fonts"]
 
