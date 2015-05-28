@@ -5,7 +5,7 @@ icon: <i class="fa fa-eye"></i>
 more:
   - title: "Massenüberwachung auf Wikipedia"
     links:
-      - link: https://en.wikipedia.org/wiki/Mass_surveillance
+      - link: https://de.wikipedia.org/wiki/Weltweite_automatisierte_Massenüberwachung
         description:
 ---
 Neben Firmen überwachen auch Regierungen Computer sowie die großen Internet- und Telekommunikationsfirmen.
