@@ -6,7 +6,6 @@ skills: 5
 spy_reduction: 2
 incomfort: 4
 ---
-[arkos](https://arkos.io/) /
 [Cozy](https://cozy.io/en/) /
 [ownCloud](https://owncloud.org/) /
 [UBOS](http://ubos.net/) /
