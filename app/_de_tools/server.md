@@ -10,9 +10,9 @@ incomfort: 3
 [FreedomBox](https://freedombox.org/) /
 [PirateBox](https://piratebox.cc/start) /
 [Sandstorm](https://sandstorm.io/) /
-[Superglue](http://superglue.it/) /
+[Superglue](https://superglue.it/) /
 [Syncloud](https://syncloud.org/) /
-[UBOS](http://ubos.net/) /
+[UBOS](https://ubos.net/) /
 [WikiSuite](http://wikisuite.org/Software) /
 [YunoHost](https://yunohost.org/#/)
 
