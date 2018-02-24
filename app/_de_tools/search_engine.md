@@ -1,6 +1,6 @@
 ---
 number: 3
-header: "Change your default search engine"
+header: "Ändern Sie Ihre Standardsuchmaschine"
 time: "5'"
 skills: 1
 spy_reduction: 3
