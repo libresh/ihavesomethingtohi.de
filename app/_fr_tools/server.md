@@ -2,7 +2,7 @@
 number: 11
 header: "Avoir votre serveur chez vous"
 time: "8h"
-skills: 3
+skills: 4
 spy_reduction: 4
 incomfort: 3
 ---
@@ -10,10 +10,10 @@ incomfort: 3
 [FreedomBox](https://freedombox.org/) /
 [PirateBox](https://piratebox.cc/start) /
 [Sandstorm](https://sandstorm.io/) /
-[Superglue](http://superglue.it/) /
+[Superglue](https://superglue.it/) /
 [Syncloud](https://syncloud.org/) /
-[UBOS](http://ubos.net/) /
-[WikiSuite](http://wikisuite.org/Software) /
+[UBOS](https://ubos.net/) /
+[WikiSuite](https://wikisuite.org/Software) /
 [YunoHost](https://yunohost.org/#/)
 
 Pourquoi ? Les personnes devront cambrioler votre maison pour avoir vos données.
