@@ -18,3 +18,4 @@ incomfort: 3
 
 Pourquoi ? Les personnes devront cambrioler votre maison pour avoir vos données.
  
+Pour plus d'informations : https://github.com/Kickball/awesome-selfhosted#self-hosting-solutions
