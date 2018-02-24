@@ -12,7 +12,7 @@ more:
 
 Autoriseriez-vous un étranger à entrer dans votre maison et à vous espionner ?
 
-Quand vous envoyez un mail, c'est comme une carte postale, plusieurs agent (virtuel et humain) la copient et la lisent sur la route. Accepteriez vous cela dans votre vie réelle ?
+Quand vous envoyez un mail, c'est comme une carte postale, plusieurs agents (virtuels et humains) la copient et la lisent sur la route. Accepteriez vous cela dans votre vie réelle ?
 
-Alors, pourquoi l'accpetr dans votre vie virtuelle ?
+Alors, pourquoi l'accepter dans votre vie virtuelle ?
 
