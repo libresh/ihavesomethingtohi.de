@@ -2,7 +2,7 @@
 number: 11
 header: "Einen eigenen Server zu Hause haben"
 time: "8h"
-skills: 3
+skills: 4
 spy_reduction: 4
 incomfort: 3
 ---
