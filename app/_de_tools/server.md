@@ -13,7 +13,7 @@ incomfort: 3
 [Superglue](https://superglue.it/) /
 [Syncloud](https://syncloud.org/) /
 [UBOS](https://ubos.net/) /
-[WikiSuite](http://wikisuite.org/Software) /
+[WikiSuite](https://wikisuite.org/Software) /
 [YunoHost](https://yunohost.org/#/)
 
 Warum ? Die Leute müssten in Ihr Haus einbrechen, um an Ihre Daten zu kommen.
