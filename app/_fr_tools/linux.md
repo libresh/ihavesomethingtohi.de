@@ -1,6 +1,6 @@
 ---
 number: 10
-header: "Install Linux"
+header: "Installer Linux"
 time: "3h"
 skills: 3
 spy_reduction: 2
