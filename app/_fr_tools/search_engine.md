@@ -1,14 +1,13 @@
 ---
 number: 3
-header: "Change your default search engine"
+header: "Changer votre moteur de recherche par défaut"
 time: "5'"
 skills: 1
 spy_reduction: 3
 incomfort: 1
 ---
-Use [DuckDuckGo](https://duckduckgo.com/)
+Utiliser [DuckDuckGo](https://duckduckgo.com/)
 
-Why? Stop companies from knowing what you have in mind.
+Pourquoi ? Empêcher les entreprises de savoir ce que vous avez en tête.
 
-You can still search on google by adding a !g
- 
+Vous pouvez encore rechercher sur Google en ajoutant un '!g' au début de la recherche, par exemple : !g Free Software 
