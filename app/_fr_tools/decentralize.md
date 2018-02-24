@@ -8,5 +8,5 @@ incomfort: 2
 ---
 xmpp / mails / webrtc / dispoara
 
-Why? Avoid a centralised place that would be targeted by spying agencies.
+Pourquoi ? Évitez un lieu centralisé qui pourrait être visé par des agences d'espionnage.
  

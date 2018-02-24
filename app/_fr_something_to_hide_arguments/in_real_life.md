@@ -9,9 +9,10 @@ more:
         description: Why Privacy Matters - Glenn Greenwald
 ---
 
-Would you allow a stranger to enter your home, and look around?
 
-When you send an email, it's like a postcard, several agents (digital and human) copy and read it on the way. Would you accept it in real life?
+Autoriseriez-vous un étranger à entrer dans votre maison et à vous espionner ?
 
-Why accepting this in your digital life?
+Quand vous envoyez un mail, c'est comme une carte postale, plusieurs agents (virtuels et humains) la copient et la lisent sur la route. Accepteriez vous cela dans votre vie réelle ?
+
+Alors, pourquoi l'accepter dans votre vie virtuelle ?
 

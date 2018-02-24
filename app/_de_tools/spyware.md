@@ -6,7 +6,7 @@ skills: 1
 spy_reduction: 1
 incomfort: 0
 ---
-[Resist Surveillance toolbox](https://resistsurveillance.org/)
+[EFF Surveillance Self-Defense](https://ssd.eff.org/en)
 
 Why? Stop targeted surveillance.
                   

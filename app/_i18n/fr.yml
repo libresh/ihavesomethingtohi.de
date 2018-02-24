@@ -2,6 +2,22 @@ global:
   title: Avez-vous quelque chose a cacher?
   y: "Oui"
   n: "Non"
+  madein: Fait à Lisbonne avec amour par
+  convinced: Convaincu
+  protect:  Comment puis-je me protéger
+  toolbox: Aller dans la boîte à outils
+tools:
+  tldruse: TL;DR utilisation 
+  estimated: Temps estimé
+  perform: pour exécuter
+  skills: Compétences requises
+  skills-text: entre 1 et 5, 1 étant facile
+  spy: Réduction de l'espionnage
+  spy-text: de 1 à 5, 1 étant le plus bas
+  inconvenience: Indice de désagréments
+  inconvenience-text: de 0 à 5, 0 étant le plus bas
+  sites: D'autres sites offrent des outils
+  friends: D'autres sites offrent des informations
 index:
-  title: "C'est la surveillance de masse."
-
+  title: "C'est de la surveillance de masse"
+  question: "Vous savez que vous êtes en train d'être observés"

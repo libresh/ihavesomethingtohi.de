@@ -6,7 +6,7 @@ skills: 2
 spy_reduction: 2
 incomfort: 0
 ---
-Join the [IndieWeb](http://indiewebcamp.com/) movement!
+Rejoignez le mouvement [IndieWeb](http://indiewebcamp.com/)!
 
-Why? Stop companies spying on how your content is visited.
+Pourquoi ? Arrêter l'espionnage des entreprises sur les contenus que vous regardez.
  

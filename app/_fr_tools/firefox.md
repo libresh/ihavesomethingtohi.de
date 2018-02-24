@@ -8,5 +8,5 @@ incomfort: 0
 ---
 [https://www.mozilla.org/firefox/](https://www.mozilla.org/firefox/)
 
-Why? Free software to browse the Internet.
+Pourquoi ? Des logiciels libres pour rechercher sur internet.
 

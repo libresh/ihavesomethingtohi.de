@@ -8,9 +8,9 @@ more:
       - link: https://en.wikipedia.org/wiki/Mass_surveillance
         description:
 ---
-Besides companies, also gonvernments are tapping computers and big Internet and telecommunication companies.
 
-This type of surveillance is possible as devices in your computer are "protected" from you as a user and because your data and telephone connections are running through closed ecosystems under control of companies that (non-)deliberately cooperate with secret services.
+À côté des entreprises, les gouvernements, aussi, ont mis la main sur les ordinateurs, sur internet et sur les entreprises de télécommunication.
 
-As you as a user do not have control over this level anymore, your privacy is completely on stake. At the moment, you just have to trust your government, full self-defence is practically not possible anymore.
+Ce type de surveillance est possible tant que les appareils à l'intérieur de l'ordinateur sont protégés par vous en tant qu'utilisateur et parce que vos données et vos connexions s'exécutent dans des écosystèmes clos contrôlés par une entreprise qui, délibérément, coopère avec les services secrets.
 
+Comme vous en tant qu'utilisateur n'avez plus de contrôle sur ce niveau, votre vie privée est en danger. En ce moment, il vous suffit de faire confiance à votre gouvernement, constituer votre défense n'est pratiquement plus possible.

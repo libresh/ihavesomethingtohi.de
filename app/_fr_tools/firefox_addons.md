@@ -11,4 +11,4 @@ incomfort: 1
 [ad blocker](https://github.com/gorhill/uBlock)/
 [adNauseam](http://dhowe.github.io/AdNauseam)
 
-Why? Stop [Spyware 2.0](https://aralbalkan.com/notes/spyware-2.0/).
+Pourquoi ? Arrêtez [Spyware 2.0](https://aralbalkan.com/notes/spyware-2.0/).
