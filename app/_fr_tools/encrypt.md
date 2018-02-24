@@ -8,5 +8,5 @@ incomfort: 4
 ---
 [Email self defense Guide](https://emailselfdefense.fsf.org/fr/)
 
-Why? Put an envelope around your communication.
+Pourquoi ? Mettez une enveloppe autour de vos communications.
                   
