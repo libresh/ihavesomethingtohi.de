@@ -6,7 +6,13 @@ skills: 1
 spy_reduction: 3
 incomfort: 1
 ---
-Use [DuckDuckGo](https://duckduckgo.com/)
+Use another search engine :
+- [DuckDuckGo](https://duckduckgo.com/)
+- [StartPage](https://www.startpage.com/)/[ixquick](https://www.ixquick.com/)
+- [Qwant](https://www.qwant.com/)
+- [Searx](https://searx.me/) : Sie können diese Software auf Ihren Server haben. [Quellcode](https://github.com/asciimoo/searx)
+- [Disconnect](https://search.disconnect.me/)
+- [TontonRoger](https://tontonroger.org/) / [Framabee](https://framabee.org/)
 
 Why? Stop companies from knowing what you have in mind.
 
