@@ -10,7 +10,7 @@ Utiliser un autre moteur de recherche :
 - [DuckDuckGo](https://duckduckgo.com/)
 - [StartPage](https://www.startpage.com/)/[ixquick](https://www.ixquick.com/)
 - [Qwant](https://www.qwant.com/)
-- [Searx](https://searx.me/) : Vous pouvez avoir ce logiciel sur votre serveur. [Quellcode](https://github.com/asciimoo/searx)
+- [Searx](https://searx.me/) : Vous pouvez avoir ce logiciel sur votre serveur. [Code source](https://github.com/asciimoo/searx)
 - [Disconnect](https://search.disconnect.me/)
 - [TontonRoger](https://tontonroger.org/) / [Framabee](https://framabee.org/)
 
