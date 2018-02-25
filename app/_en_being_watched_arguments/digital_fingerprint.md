@@ -9,8 +9,6 @@ more:
         description: Meet the trackers, an industry most people can't see, control or question.
       - link: https://www.mozilla.org/en-US/lightbeam/
         description: "(if you are already using Firefox)"
-      - link: http://collusion.toolness.org
-        description: "(demo available if you don't have Firefox yet)"
   - title: "Cookie-less/Anonymous mode tracking demo"
     links:
       - link: https://panopticlick.eff.org/
