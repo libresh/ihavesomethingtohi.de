@@ -9,8 +9,6 @@ more:
         description: Lerne die Tracker kennen. Eine Industrie, die niemand sieht, kontrolliert oder hinterfragt.
       - link: https://www.mozilla.org/en-US/lightbeam/
         description: "(wenn du schon Firefox benutzt)"
-      - link: http://collusion.toolness.org
-        description: "(Demo funktioniert auch ohne Firefox)"
   - title: "Tracking ohne Cookies und im anonymen Modus"
     links:
       - link: https://panopticlick.eff.org/
