@@ -9,8 +9,6 @@ more:
         description: Découvrez le tracking, une industrie opaque qui génère des milliards avec ce qu'elle sait de nous.
       - link: https://www.mozilla.org/en-US/lightbeam/
         description: "(Si vous utilisez Firefox)"
-      - link: http://collusion.toolness.org
-        description: "(demo disponible si vous n'avez pas Firefox)"
   - title: "Cookie-less/Anonymous mode tracking demo"
     links:
       - link: https://panopticlick.eff.org/
