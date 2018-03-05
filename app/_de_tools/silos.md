@@ -1,9 +1,9 @@
 ---
 number: 7
-header: "Quit <a href='http://indiewebcamp.com/silo'>Silos</a>"
+header: "<a href='http://indiewebcamp.com/silo'>Silos</a> verlassen"
 time: "10'"
 skills: 1
 spy_reduction: 3
 incomfort: 3
 ---
-Why? Avoid a centralised place that would be targeted by spying agencies.
+Warum ? Vermeiden Sie eine zentrale Stelle, die von Spionageagenturen angegriffen wird.
