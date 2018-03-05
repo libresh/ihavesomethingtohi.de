@@ -8,5 +8,5 @@ incomfort: 4
 ---
 [Download Tor Browser](https://www.torproject.org/projects/torbrowser.html.en)
 
-Why? Stop your ISP/Government from knowing what you browse and which website you come from.
+Warum ? Halten Sie Ihren ISP/ Ihre Regierung davon ab, zu wissen, was Sie durchsuchen und von welcher Website Sie kommen.
  
