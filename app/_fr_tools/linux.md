@@ -9,7 +9,7 @@ incomfort: 3
 
 Pourquoi ? Des logiciels libres pour limiter la surveillance sur les appareils utilisés pour rechercher sur internet.
 
-Vous pouvez installez différentes distributions linux. C'est le nom donné au différents types de Système d'exploitation Linux (liste non-exhaustive) : 
+Vous pouvez installez différentes distributions GNU/Linux. C'est le nom donné au différents types de Système d'exploitation GNU/Linux (liste non-exhaustive) : 
 - Distributions libres destinées au grand public
   - [Ubuntu](https://ubuntu.com/desktop)
   - [Debian](https://debian.org)
