@@ -1,6 +1,6 @@
 ---
 number: 6
-header: "Communication décentralisé"
+header: "Communication décentralisée"
 time: "5h"
 skills: 3
 spy_reduction: 3
