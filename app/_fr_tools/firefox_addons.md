@@ -1,14 +1,14 @@
 ---
 number: 2
-header: "Install Firefox add-ons"
+header: "Installer des extensions Firefox"
 time: "5'"
 skills: 1
 spy_reduction: 4
 incomfort: 1
 ---
-[disconnect](https://disconnect.me/)/
-[terms of service](https://tosdr.org/)/
-[ad blocker](https://github.com/gorhill/uBlock)/
-[adNauseam](http://dhowe.github.io/AdNauseam)
+[Disconnect](https://disconnect.me/)/
+[Terms Of Service](https://tosdr.org/)/
+[AdBlocker](https://github.com/gorhill/uBlock)/
+[AdNauseam](http://dhowe.github.io/AdNauseam)
 
-Pourquoi ? Arrêtez [Spyware 2.0](https://aralbalkan.com/notes/spyware-2.0/).
+Pourquoi ? Arrêtez [Spyware 2.0](https://ar.al/notes/spyware-2.0/).
