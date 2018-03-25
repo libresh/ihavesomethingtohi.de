@@ -1,5 +1,5 @@
 ---
-number: ?
+number: 12
 header: "Libérer son smartphone"
 time: "3h"
 skills: 5
