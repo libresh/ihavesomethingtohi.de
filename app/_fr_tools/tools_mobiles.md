@@ -7,7 +7,7 @@ spy_reduction: 4
 incomfort: 2
 ---
 
-Pourquoi ? Car vous ne voulez pas être espionner pendant que vous téléphonez à votre petit ami !
+Pourquoi ? Car vous ne voulez pas être espionné.e pendant que vous téléphonez à votre petit.e ami.e !
 
 Outils pour libérer votre android rapidement : 
  - Rechercher de manière sécurisée et anonyme : 
