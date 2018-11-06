@@ -1,12 +1,11 @@
 ---
 number: 4
-header: "Tor browser"
+header: "Le navigateur TOR"
 time: "10'"
 skills: 2
 spy_reduction: 3
 incomfort: 4
 ---
-[Download Tor Browser](https://www.torproject.org/projects/torbrowser.html.en)
+[Téléchargez le navigateur TOR](https://www.torproject.org/projects/torbrowser.html.en)
 
-Why? Stop your ISP/Government from knowing what you browse and which website you come from.
- 
+Pourquoi ? Empêcher les FAI/le gouvernement de savoir ce que vous recherchez sur la toile et ce que vous avez en tête.
