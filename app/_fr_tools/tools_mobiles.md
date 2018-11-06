@@ -1,5 +1,5 @@
 ---
-number: 12
+number: 9
 header: "Changer ses habitudes"
 time: "1h"
 skills: 2
