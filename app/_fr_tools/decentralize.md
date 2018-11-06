@@ -7,6 +7,9 @@ spy_reduction: 3
 incomfort: 2
 ---
 
+xmpp / mails / webrtc / diaspora
+
+
 Pourquoi ? Évitez un lieu centralisé qui pourrait être visé par des agences d'espionnage.
 
 Vous pouvez utiliser différents protocoles pour cela : 
